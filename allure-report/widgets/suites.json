@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"a9ee910b646d570d3c1842e1e4e6eae4","name":"api.PokemonPropertiesTestCase","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"eaa15f420318350835203edbd5cfab49","name":"api.LimitedListTestCase","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
