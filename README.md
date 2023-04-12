@@ -1,4 +1,4 @@
-[anchor](#heading-to-achor)
+[anchor](#heading-to-achor:)
 
 
 eading-to-achor
@@ -19,7 +19,7 @@ eading-to-achor
 
 
 
-# heading-to-achor
+### heading-to-achor
 
 
 
